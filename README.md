@@ -37,7 +37,7 @@ git clone https://github.com/LorenaCarmo/java_exercicios.git
 Entre na pasta de um exercício:
 
 ```bash
-cd java_exercicios/exercicio_01
+cd java_estudos/exercicio_01
 ```
 
 Compile o código:
