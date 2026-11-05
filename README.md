@@ -31,7 +31,7 @@ O objetivo é consolidar os fundamentos da linguagem, desenvolver o raciocínio 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/LorenaCarmo/java_exercicios.git
+git clone https://github.com/LorenaCarmo/java_estudos.git
 ```
 
 Entre na pasta de um exercício:
